@@ -1,1 +1,0 @@
-fifo and lifo
